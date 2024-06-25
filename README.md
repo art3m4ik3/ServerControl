@@ -4,9 +4,8 @@
 <details>
 <summary>Скриншоты</summary>
 <br>
-![server list](./images/serverlist.jpg)
-![console](./images/console.jpg)
-<br>
-![add server](./images/addserver.jpg)
-![remove server](./images/removeserver.jpg)
+<img src="images/serverlist.jpg" width="200">
+<img src="images/console.jpg" width="200">
+<img src="images/addserver.jpg" width="200">
+<img src="images/removeserver.jpg" width="200">
 </details>
